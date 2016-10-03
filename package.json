@@ -1,6 +1,6 @@
 {
-  "name": "heroku-env",
-  "version": "0.1.0",
+  "name": "heroku-env-variables",
+  "version": "0.1.1",
   "description": "Download/upload heroku env variables",
   "main": "index.js",
   "scripts": {
