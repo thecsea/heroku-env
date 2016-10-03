@@ -1,2 +1,2 @@
 # heroku-env
-Download/upload heroku envs
+Download/upload heroku env variables
